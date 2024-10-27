@@ -1,6 +1,3 @@
-*.class
-
-
 /node_modules
 
 # SSH Keys
@@ -10,11 +7,6 @@
 
 # Mobile Tools for Java (J2ME)
 .mtj.tmp/
-
-# Package Files #
-*.jar
-*.war
-*.ear
 
 # Merge Files
 *.bak
